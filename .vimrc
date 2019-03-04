@@ -1,4 +1,7 @@
+
 set mouse = ""
 
-colorscheme default
+set hlsearch 
+
+colorscheme elflord
 syntax on
